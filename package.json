@@ -9,7 +9,7 @@
   "bugs": {
     "url": "https://github.com/patw0929/react-smartbanner/issues"
   },
-  "main": "dist/main.js",
+  "main": "src/components/SmartBanner.js",
   "dependencies": {
     "cookie-cutter": "^0.1.1",
     "cookies-js": "^1.2.1",
